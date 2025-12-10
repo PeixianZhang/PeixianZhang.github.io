@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: # "Peixian Zhang"
+title: "Peixian Zhang"
 author_profile: true
 redirect_from: 
   - /about/
